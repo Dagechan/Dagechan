@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dagechan</h1>
-<h3 align="center">I'm interested in kernel development.</h3>
+<h1 align="center">Dagechan</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagechan&label=Profile%20views&color=0e75b6&style=flat" alt="dagechan" /> </p>
 
