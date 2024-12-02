@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/superdagechan" target="blank"><img src="https://img.shields.io/twitter/follow/superdagechan?logo=twitter&style=for-the-badge" alt="superdagechan" /></a> </p>
 
-- 📫 How to reach me **takebose5@gmail.com**
+- 📫 How to reach me **takebose5[at]gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
